@@ -1,7 +1,8 @@
 import axios from "axios";
 
 // Define base API URL
-const API_BASE_URL = "http://localhost:4000/api";
+const API_BASE_URL =
+  "http://xkgoockg8w80kc0gc084sc0o.147.79.100.132.sslip.io/api";
 
 // Types
 export interface Assistant {
