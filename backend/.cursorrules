@@ -1,0 +1,14 @@
+#### Error Handling
+
+- Provide **clear error messages** for API failures.
+
+#### Code Quality
+
+- Organize code into **logical, reusable components and modules**.
+- Add **meaningful comments** for complex logic.
+
+#### Testing
+
+- Write **basic unit tests**
+
+---

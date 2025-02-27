@@ -1,0 +1,32 @@
+#### General
+
+- Always use **TypeScript** and **TailwindCSS**.
+- Ensure the design is **elegant, modern, and fully responsive**.
+
+#### State Management
+
+- Use **React’s Context API** for global state.
+- Implement **proper loading and error states**.
+
+#### Error Handling
+
+- Provide **clear error messages** for API failures.
+- Implement **fallback responses** for network issues.
+- Add **retry mechanisms** for failed requests.
+
+#### Code Quality
+
+- Organize code into **logical, reusable components and modules**.
+- Maintain a **clean separation** between UI, state, and API logic.
+- Add **meaningful comments** for complex logic.
+
+#### Enhancements
+
+- Implement a **dark/light theme toggle**.
+
+#### Testing
+
+- Write **basic unit tests** for React components.
+- Ensure **cross-browser compatibility**.
+
+---
